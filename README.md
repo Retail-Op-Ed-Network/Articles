@@ -40,11 +40,11 @@ As a collective, we pledge to:
 
 - Strive to provide extensive documentation of sources when able.
 
-- Distinguish clearly between verified facts, sourced materials, and personal interpretation or speculation.
+- Distinguish clearly between verified facts, sourced materials, and personal interpretation or speculation when able.
 
 - Respect the work of original authors, researchers, and creators by citing and crediting appropriately when able.
 
-- Maintain the integrity of our discussions by being transparent about our limitations and avoiding misleading claims.
+- Maintain the integrity of our discussions by being transparent about our limitations and avoiding misleading claims when able.
 
 We believe that thorough sourcing not only strengthens our work but also supports a culture of learning — both within our group and in the broader public.
 
