@@ -1,0 +1,74 @@
+The Hologram
+
+By Bob Mahalo
+
+...outline of post...
+
+1. tldr - Is the US stock market made of completely imaginary issues? Participants in the primary market(what is the primary market??? VC?) buy the IPO shares through investment banks, 
+which were converted into an electronic beneficial entitlement in order to be eligible for DTCC services. This electronic entitlement is then dropped into the secondary market, while the actual certificates (BEO or Paper) 
+are held under the central depositories steward Cede & Co safe from bankruptcy court. If all the brokers fail in a 'domino bankruptcy'(1), the DTC still owns everything...$87.1 Trillion worth of security issues(2). 
+In order to facilitate trade between investors without medallion signatures on certificates signifying a legal change in ownership, 
+a digital entitlement memo representing the quantity of fungible bulk of shares issued is used to represent the authentic share and is held in a custody chain called Street Name. (3)
+
+2. dtc
+
+ (a) Derivatives origin story- this needs to be unpacked to include the consequences of fungible bulk and beneficial entitlements. 
+ (b) Dematerialization(4) "Today, less than 1% of assets serviced by DTCC, through the firm’s subsidiary The Depository Trust Company (“DTC”), are still in physical form, but they represent $780 billion dollars in value."
+    (i) (rewrite this with more accurate sourced phrases)paperwork crisis of the late 60's - the immense amount of paperwork that piled up and was delivered by kids on bikes dropping duffle bag back packs 
+        filled with stock certificates to different clearing agencies windows on the streets of New York, caused the markets to close down 1 day per week to catch up. This led to seeking solutions for a more efficient settlement program. 
+        Many were presented, but none offered central depository expedience.(5-need source for this)
+ (c) centralized depository
+    (i) A Nominee Partnership Formed In 1996 To Consolidate And Retain Ownership Custody Of All Stocks Being Traded In The Secondary Market(Wall Street). 
+        Made Up Of Dtc Participants To Allow For Book-Entry Transfers Without Corporate Resolutions To Transfer Agents.(6)
+    (ii) {rewrite and include in above paragraph?}many were formed nationwide(find statistic from the late 70's showing how many depositories there were nation wide), 
+         and the slow consolidation into the DTC is nearly complete(I believe there is one holdout in Chicago, but is intertwined through DTCC). the central depository is the custody owner of the stock certificate, 
+         and a street name registered duplicate is memo credited to brokers whose investors bought the underlying. this process was faster than transferring actual stock certificates, but still slow until computers began these credits/debits nearly instantly. 
+
+3. issuer
+ a) IPO or APO - initial public offering and additional public offering happen in the primary market. a new issuer want to raise capital and offers a portion of its shares to the public. a price is agreed upon, and the IPO happens. 
+    TA works with UW at DTCC to ensure eligibility. It is in this process that the shares are then tucked away in a vault under Cede & Co's custody(find out if ALL the shares are flipped to DTCC or if the company keeps some out of the secondary market somehow). 
+    What remains is created for trading in Wall Street is a beneficial entitlement something called a street name security, that looks like a share, and trades like a share, but has such dilution in the secondary markets, unless you are DRSed, 
+    your voting right are almost guaranteed to be either diluted or discarded, depending on the philosophy of the broker( need source), and amount of rehypothecated shares the market is juggling.
+ b) primary market
+    (i) institutional and accredited investors - In the Primary market a price is set and the shares are purchased. Beneficial shares are then made available in the secondary market, where memo credits are noted and CNS tabulates balances EOD for brokers to settle. (Note this a private market, most accredited invests are not invited. I believe at BAC you need 100 million to access the IPO market for pricing and allocation; some ETFs and Mutual Funds participate)
+ c) secondary market
+    (i) prime brokers, brokers, day traders
+retail investors (include the apps and brokers/banks/ financial advisors and professional systems such as Pershing/BMO) 
+    (ii) ucc8
+ d) State Filing and Shares 
+    (i) States are the original issuers or shares. They are where the process starts. When and how the SEC, FINRA, DTCC, and contracts that separate you from ownership should be discussed. 
+    (ii) Why does he take 3/4 gov agencies to separate you from ownership?
+    (iii) The VC/PE and the intermediary buyer (pre IPO or startup; same idea)
+- They buy your equity (= raw materials),
+- they transform it into a portfolio (= packaged product)
+- they re-sell it to their LPs (= final consumer)
+- and they extract carried interest in the process (= added value)
+Once you have this framework in mind, it becomes clear that Fundraising = Sales. 
+ 
+1. secondary market
+ a) street name registration
+    (i) DRS
+        1. In order to sell your securities, they must be converted into Street name registration then a broker can sell in the secondary market.
+        2. this can happen through the TA broker, or the TA can transfer back to your broker through the FAST program
+ b) creation of derivatives
+ c) ETFs
+    (i) synthetic share creation/redemption
+    (ii) short sell underlying to stabilize price/balance basket
+ d) securities act of 1933(ask chat gpt to see if it affects only issuers or if it affect secondary market)
+ e) securities act of 1934(find out if there are restrictions on creation redemption of entitlements)
+ f) investment act of 1940(ask chat gpt if this is the regulations for secondary market traders)
+ g) securities act amendments of 1975(after 5 years of intense debate starting in 1970, the amendments passed in 1975)
+ h) securities investor protection act in 1970
+
+2. seemingly vanishing positions
+ a) SRO
+ b) CNS
+ c) rule changes
+
+Sources.
+(1) https://youtu.be/Yq4jdShG_PU?si=ZRETen-K450X9p8m 
+(2) https://www.dtcc.com/about/businesses-and-subsidiaries/dtc
+(3) https://www.sec.gov/answers/street.htm
+(4) https://www.dtcc.com/news/2020/september/29/dtcc-outlines-steps-to-achieve-dematerialization
+(5)
+(6) https://www.sechistorical.org/collection/papers/1990/1999_0101_DTCHistory.pdf
