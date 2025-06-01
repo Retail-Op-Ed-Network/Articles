@@ -1,0 +1,15 @@
+FTDs
+
+By Bob Mahalo
+
+FTDs What are they and why should you care - Failure To Deliver. 
+
+An unsettled transaction results in a fail to deliver. This can happen when the short seller doesn't or can't buy the shares they owe due to liquidity issues. 
+
+The National Securities Clearing Corporation (NSCC) records these in the Continuous Net Settlement (CNS) system and publishes this data twice per month. 
+
+Reg SHO attempted to address concerns about FTDs resulting from abusive naked short selling by eliminating certain exemptions. Rule 203 requires participants to immediately closeout FTD in securities on the threshold list. 
+
+However, the Bonafide Market Making exemption allows a participant to sell investors securities that are unavailable, creating large debits on their books. You end up with a limited economic entitlement right with no voting rights. 
+
+In order to continue short selling a security on the threshold list it can be stored in the Obligation Warehouse indefinitely, as long as 'attempts' are made to settle the deficiency.
